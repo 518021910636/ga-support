@@ -1,0 +1,12 @@
+# Generated MATLAB files and local editor settings
+*.asv
+*.m~
+*.mat
+*.log
+*.mex*
+slprj/
+codegen/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
